@@ -1,7 +1,7 @@
 {
-  "location": null,
-  "url": "https://github.com/r-lib/tree-sitter-r",
-  "lang": "r",
   "parser_version": "0e6ef7741712c09dc3ee6e81c42e919820cc65ef",
+  "location": null,
+  "lang": "r",
+  "url": "https://github.com/r-lib/tree-sitter-r",
   "semver": false
 }
